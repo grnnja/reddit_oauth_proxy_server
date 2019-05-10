@@ -1,4 +1,4 @@
-# Client for Reddit
+# Client for Reddit OAuth Proxy Server
 When I first started this project, the official desktop Reddit client looked dated, many image and video hosting sites were not supported, you could not infinitely scroll, and it lacked fullsize images like in the mobile experience.
 ## The problems that I solved:
 * Authenticating through [OAuth2](https://github.com/reddit-archive/reddit/wiki/oauth2)
